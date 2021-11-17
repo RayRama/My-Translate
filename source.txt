@@ -1,0 +1,9 @@
+Source Language
+
+1. CLI Version
+
+Baik, selamat pagi, selamat datang (Indonesia)
+
+2. React Native
+
+Baik, こんにちは, Доброе утро (Indonesia, Japan, Russian)

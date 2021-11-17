@@ -1,0 +1,9 @@
+Target Language Result
+
+1. CLI Version
+
+Good, good morning, welcome (English)
+
+2. React Native
+
+Good, Hello!, Morning (English)
